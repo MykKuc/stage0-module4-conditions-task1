@@ -4,8 +4,10 @@ public class IntegerComparison {
     public static void main(String[] args) {
         int x = 50;
         int y = 50;
-         (x  y) {
+         if(x == y) {
             System.out.println("Hello World!");
         }
+
+
     }
 }
